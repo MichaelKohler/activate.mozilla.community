@@ -1,0 +1,22 @@
+{
+  "name": "activate.mozilla.community",
+  "version": "1.0.0",
+  "description": "You can see this site live at [https://activate.mozilla.community/](https://activate.mozilla.community/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla/activate.mozilla.community.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mozilla/activate.mozilla.community/issues"
+  },
+  "homepage": "https://activate.mozilla.community",
+  "dependencies": {
+    "md2xliff": "^1.0.0"
+  }
+}
