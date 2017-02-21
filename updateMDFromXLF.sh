@@ -1,3 +1,5 @@
+export MD2XLIFF_SOURCE_FALLBACK=1
+
 # pt-BR
 node_modules/md2xliff/bin/reconstruct locales/pt-BR/activities.xlf locales/pt-BR/activities.skl.md _pages/pt/activities.md
 node_modules/md2xliff/bin/reconstruct locales/pt-BR/e10s-addons.xlf locales/pt-BR/e10s-addons.skl.md _pages/pt/e10s-addons.md
