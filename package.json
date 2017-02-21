@@ -17,6 +17,6 @@
   },
   "homepage": "https://activate.mozilla.community",
   "dependencies": {
-    "md2xliff": "^1.0.0"
+    "md2xliff": "MichaelKohler/md2xliff#master"
   }
 }
