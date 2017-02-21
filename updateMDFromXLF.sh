@@ -1,6 +1,7 @@
 # pt-BR
 node_modules/md2xliff/bin/reconstruct locales/pt-BR/activities.xlf locales/pt-BR/activities.skl.md _pages/pt/activities.md
 node_modules/md2xliff/bin/reconstruct locales/pt-BR/e10s-addons.xlf locales/pt-BR/e10s-addons.skl.md _pages/pt/e10s-addons.md
+node_modules/md2xliff/bin/reconstruct locales/pt-BR/community-participation-guidelines.xlf locales/pt-BR/community-participation-guidelines.skl.md _pages/pt/community-participation-guidelines.md
 node_modules/md2xliff/bin/reconstruct locales/pt-BR/faq.xlf locales/pt-BR/faq.skl.md _pages/pt/faq.md
 node_modules/md2xliff/bin/reconstruct locales/pt-BR/leaderboard.xlf locales/pt-BR/leaderboard.skl.md _pages/pt/leaderboard.md
 node_modules/md2xliff/bin/reconstruct locales/pt-BR/participation.xlf locales/pt-BR/participation.skl.md _pages/pt/participation.md
@@ -12,6 +13,7 @@ node_modules/md2xliff/bin/reconstruct locales/pt-BR/webvr-camp.xlf locales/pt-BR
 
 # es-ES
 node_modules/md2xliff/bin/reconstruct locales/es-ES/activities.xlf locales/es-ES/activities.skl.md _pages/es/activities.md
+node_modules/md2xliff/bin/reconstruct locales/es-ES/community-participation-guidelines.xlf locales/es-ES/community-participation-guidelines.skl.md _pages/es-ES/community-participation-guidelines.md
 node_modules/md2xliff/bin/reconstruct locales/es-ES/e10s-addons.xlf locales/es-ES/e10s-addons.skl.md _pages/es/e10s-addons.md
 node_modules/md2xliff/bin/reconstruct locales/es-ES/faq.xlf locales/es-ES/faq.skl.md _pages/es/faq.md
 node_modules/md2xliff/bin/reconstruct locales/es-ES/leaderboard.xlf locales/es-ES/leaderboard.skl.md _pages/es/leaderboard.md
@@ -24,6 +26,7 @@ node_modules/md2xliff/bin/reconstruct locales/es-ES/webvr-camp.xlf locales/es-ES
 
 # fr
 node_modules/md2xliff/bin/reconstruct locales/fr/activities.xlf locales/fr/activities.skl.md _pages/fr/activities.md
+node_modules/md2xliff/bin/reconstruct locales/fr/community-participation-guidelines.xlf locales/fr/community-participation-guidelines.skl.md _pages/fr/community-participation-guidelines.md
 node_modules/md2xliff/bin/reconstruct locales/fr/e10s-addons.xlf locales/fr/e10s-addons.skl.md _pages/fr/e10s-addons.md
 node_modules/md2xliff/bin/reconstruct locales/fr/faq.xlf locales/fr/faq.skl.md _pages/fr/faq.md
 node_modules/md2xliff/bin/reconstruct locales/fr/leaderboard.xlf locales/fr/leaderboard.skl.md _pages/fr/leaderboard.md
