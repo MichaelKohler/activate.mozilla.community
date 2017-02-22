@@ -8,86 +8,86 @@
       </skl>
     </header>
     <body>
-<trans-unit id="1">
+<trans-unit id="1" xml:space="preserve">
   <source xml:lang="en-US">layout: default
 title:  "Roadmap"
 permalink: /roadmap/
 lang: en</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="2">
+<trans-unit id="2" xml:space="preserve">
   <source xml:lang="en-US">ref: roadmap</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="3">
+<trans-unit id="3" xml:space="preserve">
   <source xml:lang="en-US">Roadmap</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="4">
+<trans-unit id="4" xml:space="preserve">
   <source xml:lang="en-US">In this page we describe the past, current and future activities that we have on this site.</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="5">
+<trans-unit id="5" xml:space="preserve">
   <source xml:lang="en-US">If you have feedback, questions or suggestions please [chime in to this topic](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="6">
+<trans-unit id="6" xml:space="preserve">
   <source xml:lang="en-US">*Note that this roadmap is subject to change.*</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="7">
+<trans-unit id="7" xml:space="preserve">
   <source xml:lang="en-US">Now (Q1 2017)</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="8">
+<trans-unit id="8" xml:space="preserve">
   <source xml:lang="en-US">Next (Q2 2017)</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="9">
+<trans-unit id="9" xml:space="preserve">
   <source xml:lang="en-US">Later (Beyond)</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="10">
+<trans-unit id="10" xml:space="preserve">
   <source xml:lang="en-US">[Dive Into Rust](/rust-hack/)</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="11">
+<trans-unit id="11" xml:space="preserve">
   <source xml:lang="en-US">Next-Gen Firefox Hacking with The Janitor</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="12">
+<trans-unit id="12" xml:space="preserve">
   <source xml:lang="en-US"></source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="13">
+<trans-unit id="13" xml:space="preserve">
   <source xml:lang="en-US">[Web Compatibility Sprint](/webcompat-sprint/)</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="14">
+<trans-unit id="14" xml:space="preserve">
   <source xml:lang="en-US"></source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="15">
+<trans-unit id="15" xml:space="preserve">
   <source xml:lang="en-US"></source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="16">
+<trans-unit id="16" xml:space="preserve">
   <source xml:lang="en-US">[Test Pilot Install](/test-pilot/)</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="17">
+<trans-unit id="17" xml:space="preserve">
   <source xml:lang="en-US"></source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="18">
+<trans-unit id="18" xml:space="preserve">
   <source xml:lang="en-US"></source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="19">
+<trans-unit id="19" xml:space="preserve">
   <source xml:lang="en-US">[WebVR Camp](/webvr-camp/)</source>
   <target xml:lang="en-US"></target>
 </trans-unit>
-<trans-unit id="20">
+<trans-unit id="20" xml:space="preserve">
   <source xml:lang="en-US"></source>
   <target xml:lang="en-US"></target>
 </trans-unit>

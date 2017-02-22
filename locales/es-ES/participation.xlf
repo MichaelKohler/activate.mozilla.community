@@ -7,102 +7,104 @@
       </skl>
     </header>
     <body>
-      <trans-unit id="1">
+      <trans-unit id="1" xml:space="preserve">
         <source xml:lang="en-US">layout: default
 title:  "Participation"
 permalink: /participation/
 lang: en</source>
-        <target xml:lang="es-ES">layout: default title: "Participación" permalink: /es/participation/ lang: en</target>
+        <target xml:lang="es-ES">layout: default
+title: "Participación"
+permalink: /es/participation/
+lang: en</target>
       </trans-unit>
-      <trans-unit id="2">
+      <trans-unit id="2" xml:space="preserve">
         <source xml:lang="en-US">ref: participation</source>
         <target xml:lang="es-ES">ref: participación</target>
       </trans-unit>
-      <trans-unit id="3">
+      <trans-unit id="3" xml:space="preserve">
         <source xml:lang="en-US">About Participation at Mozilla</source>
         <target>Sobre la Participación en Mozilla</target>
       </trans-unit>
-      <trans-unit id="4">
+      <trans-unit id="4" xml:space="preserve">
         <source xml:lang="en-US">Mozilla has thousands of volunteers globally making an impact every day by contributing to engineering projects, localization, support, marketing, and other areas.</source>
         <target>Mozilla tiene miles de voluntarios en todo el mundo que contribuyen a diario colaborando en proyectos de ingienería, localización, ayuda, marketing y muchas otras áreas.</target>
       </trans-unit>
-      <trans-unit id="5">
+      <trans-unit id="5" xml:space="preserve">
         <source xml:lang="en-US">However, sometimes finding the right opportunity to help at the right time can be difficult in a project so large.</source>
         <target>Sin embargo, a veces es difícil encontrar la oportunidad perfecta para ayudar en el momento adecuado en un proyecto tan amplio.</target>
       </trans-unit>
-      <trans-unit id="6">
+      <trans-unit id="6" xml:space="preserve">
         <source xml:lang="en-US">Hence the creation of this site, the purpose of which is to surface up things to do right now.</source>
         <target>Por eso hemos creado esta página, con el objetivo de recopilar todo lo que aún está pendiente.</target>
       </trans-unit>
-      <trans-unit id="7">
+      <trans-unit id="7" xml:space="preserve">
         <source xml:lang="en-US">The criteria for these activities are:</source>
         <target>Las reglas de estas actividades son:</target>
       </trans-unit>
-      <trans-unit id="8">
+      <trans-unit id="8" xml:space="preserve">
         <source xml:lang="en-US">They are relevant to what is happening right now at Mozilla</source>
         <target>Son importantes para el desarrollo actual de Mozilla</target>
       </trans-unit>
-      <trans-unit id="9">
+      <trans-unit id="9" xml:space="preserve">
         <source xml:lang="en-US">They bring value to those who choose to participate</source>
         <target>Aportan valor a los que quieren colaborar</target>
       </trans-unit>
-      <trans-unit id="10">
+      <trans-unit id="10" xml:space="preserve">
         <source xml:lang="en-US">They appeal to a broad group of people</source>
         <target>Atraen a un amplio número de personas</target>
       </trans-unit>
-      <trans-unit id="11">
+      <trans-unit id="11" xml:space="preserve">
         <source xml:lang="en-US">They are self-serve and require no support to get up and running</source>
         <target>Son independientes y están listas para ejecutarse y utilizarlas</target>
       </trans-unit>
-      <trans-unit id="12">
+      <trans-unit id="12" xml:space="preserve">
         <source xml:lang="en-US">The goal is simple, Participation at scale with impact.</source>
         <target>El objetivo es simple: Participación a larga escala y con un gran impacto.</target>
       </trans-unit>
-      <trans-unit id="13">
+      <trans-unit id="13" xml:space="preserve">
         <source xml:lang="en-US">Help us get bigger and better, as we continue to carry out our mission.</source>
         <target>Ayúdanos a crecer y mejorar mientras seguimos adelante con nuestra misión.</target>
       </trans-unit>
-      <trans-unit id="14">
+      <trans-unit id="14" xml:space="preserve">
         <source xml:lang="en-US">Our Mission</source>
         <target>Nuestra misión</target>
       </trans-unit>
-      <trans-unit id="15">
+      <trans-unit id="15" xml:space="preserve">
         <source xml:lang="en-US">To have Mozilla succeed through openness and participation</source>
         <target>Que Mozilla tenga éxito mediante la particpación y amplitud de miras</target>
       </trans-unit>
-      <trans-unit id="16">
+      <trans-unit id="16" xml:space="preserve">
         <source xml:lang="en-US">What We Do</source>
         <target>Qué hacemos</target>
       </trans-unit>
-      <trans-unit id="17">
+      <trans-unit id="17" xml:space="preserve">
         <source xml:lang="en-US">The Participation Team develops community leaders and contributors who will invent, shape and defend the Internet, and activates them to supercharge Mozilla’s products and our movement.</source>
         <target>El equipo de Participación entrena a líderes de comunidad y colaboradores para que inventen, den forma y defiendan Internet. También se les pide que superalimenten los productos de Mozilla y nuestro movimiento.</target>
       </trans-unit>
-      <trans-unit id="18">
+      <trans-unit id="18" xml:space="preserve">
         <source xml:lang="en-US">We do this by:</source>
         <target>Cómo lo hacemos:</target>
       </trans-unit>
-      <trans-unit id="19">
+      <trans-unit id="19" xml:space="preserve">
         <source xml:lang="en-US">Designing and implementing specific participation initiatives -- in partnership with teams around Mozilla -- that adapt and advance global best-practice on participation</source>
         <target>Diseñando e implementando iniciativas de participación específicas en colaboración con otros equipos de Mozilla para adaptar y mejorar las prácticas adecuadas de participación</target>
       </trans-unit>
-      <trans-unit id="20">
+      <trans-unit id="20" xml:space="preserve">
         <source xml:lang="en-US">Recruiting and investing in core contributors mobilizers/leaders, and developing diverse, local and global communities that make individual contribution more impactful</source>
         <target>Contratando e invirtiendo en colaboradores claves y líderes y desarrollando comunidades diversas, tanto locales como globales, para conseguir que la colaboración individual tenga más impacto</target>
       </trans-unit>
-      <trans-unit id="21">
+      <trans-unit id="21" xml:space="preserve">
         <source xml:lang="en-US">Delivering software/systems and practices that increase the impact of participation across Mozilla</source>
         <target>Proporcionando /systems software y prácticas que aumenten el impacto de la participación en Mozilla</target>
       </trans-unit>
-      <trans-unit id="22">
+      <trans-unit id="22" xml:space="preserve">
         <source xml:lang="en-US">Get Involved</source>
         <target>Involúcrate</target>
       </trans-unit>
-      <trans-unit id="23">
+      <trans-unit id="23" xml:space="preserve">
         <source xml:lang="en-US">Find out more on the [Participation Wiki](https://wiki.mozilla.org/Participation).</source>
         <target>Descubre más en la Wiki de Participación (https://wiki.mozilla.org/Participation).</target>
       </trans-unit>
     </body>
   </file>
 </xliff>
-

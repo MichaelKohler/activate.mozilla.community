@@ -8,7 +8,7 @@
       </skl>
     </header>
     <body>
-<trans-unit id="1">
+<trans-unit id="1" xml:space="preserve">
   <source xml:lang="en-US">layout: leaderboard
 title:  "Leaderboard"
 permalink: /leaderboard/
@@ -18,58 +18,58 @@ title:  "Leaderboard"
 permalink: /hi-IN/leaderboard/
 lang: en</target>
 </trans-unit>
-<trans-unit id="2">
+<trans-unit id="2" xml:space="preserve">
   <source xml:lang="en-US">ref: leaderboard</source>
   <target xml:lang="hi-IN">ref: leaderboard</target>
 </trans-unit>
-<trans-unit id="3">
+<trans-unit id="3" xml:space="preserve">
   <source xml:lang="en-US">Leaderboard</source>
   <target xml:lang="hi-IN"></target>
 </trans-unit>
-<trans-unit id="4">
+<trans-unit id="4" xml:space="preserve">
   <source xml:lang="en-US">{: #loading .pull-right}
 &lt;span class=&quot;glyphicon glyphicon-refresh&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; loading...</source>
   <target xml:lang="hi-IN"></target>
 </trans-unit>
-<trans-unit id="5">
+<trans-unit id="5" xml:space="preserve">
   <source xml:lang="en-US">{: #board .sortable}
 |</source>
   <target xml:lang="hi-IN">{: #board .sortable}
 |</target>
 </trans-unit>
-<trans-unit id="6">
+<trans-unit id="6" xml:space="preserve">
   <source xml:lang="en-US">Mozillian  |</source>
   <target xml:lang="hi-IN">Mozillian  |</target>
 </trans-unit>
-<trans-unit id="7">
+<trans-unit id="7" xml:space="preserve">
   <source xml:lang="en-US">No.</source>
   <target xml:lang="hi-IN">No.</target>
 </trans-unit>
-<trans-unit id="8">
+<trans-unit id="8" xml:space="preserve">
   <source xml:lang="en-US">of Events |</source>
   <target xml:lang="hi-IN"></target>
 </trans-unit>
-<trans-unit id="9">
+<trans-unit id="9" xml:space="preserve">
   <source xml:lang="en-US">|</source>
   <target xml:lang="hi-IN">|</target>
 </trans-unit>
-<trans-unit id="10">
+<trans-unit id="10" xml:space="preserve">
   <source xml:lang="en-US">--- |</source>
   <target xml:lang="hi-IN">--- |</target>
 </trans-unit>
-<trans-unit id="11">
+<trans-unit id="11" xml:space="preserve">
   <source xml:lang="en-US">--- |</source>
   <target xml:lang="hi-IN">--- |</target>
 </trans-unit>
-<trans-unit id="12">
+<trans-unit id="12" xml:space="preserve">
   <source xml:lang="en-US">|</source>
   <target xml:lang="hi-IN">|</target>
 </trans-unit>
-<trans-unit id="13">
+<trans-unit id="13" xml:space="preserve">
   <source xml:lang="en-US"> |</source>
   <target xml:lang="hi-IN"> |</target>
 </trans-unit>
-<trans-unit id="14">
+<trans-unit id="14" xml:space="preserve">
   <source xml:lang="en-US"> |</source>
   <target xml:lang="hi-IN"> |</target>
 </trans-unit>

@@ -8,7 +8,7 @@
       </skl>
     </header>
     <body>
-<trans-unit id="1">
+<trans-unit id="1" xml:space="preserve">
   <source xml:lang="en-US">layout: page
 title:  "Dive Into Rust"
 permalink: /rust-hack/
@@ -22,31 +22,31 @@ lang: en
 ref: rust-hack
 parent: activities</target>
 </trans-unit>
-<trans-unit id="2">
+<trans-unit id="2" xml:space="preserve">
   <source xml:lang="en-US">redirect_from: "/developer-engagement/rust-hack/"</source>
   <target xml:lang="it">redirect_from: "/it/developer-engagement/rust-hack/"</target>
 </trans-unit>
-<trans-unit id="3">
+<trans-unit id="3" xml:space="preserve">
   <source xml:lang="en-US">TOC</source>
   <target xml:lang="it">TOC</target>
 </trans-unit>
-<trans-unit id="4">
+<trans-unit id="4" xml:space="preserve">
   <source xml:lang="en-US">{:toc}</source>
   <target xml:lang="it">{:toc}</target>
 </trans-unit>
-<trans-unit id="5">
+<trans-unit id="5" xml:space="preserve">
   <source xml:lang="en-US">{: .label .timebox}
 &lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 2-3 hours</source>
   <target xml:lang="it">{: .label .timebox}
 &lt;span class=&quot;glyphicon glyphicon-time&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt; 2-3 hours</target>
 </trans-unit>
-<trans-unit id="6">
+<trans-unit id="6" xml:space="preserve">
   <source xml:lang="en-US">{: .clear}
 _</source>
   <target xml:lang="it">{: .clear}
 _</target>
 </trans-unit>
-<trans-unit id="7">
+<trans-unit id="7" xml:space="preserve">
   <source xml:lang="en-US">{: .alert .alert-info .impactbox}
 &lt;span class=&quot;glyphicon glyphicon-ok-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
 Having more developers understand, use and evangelize this language will advance make the web better and more secure.</source>
@@ -54,15 +54,15 @@ Having more developers understand, use and evangelize this language will advance
 &lt;span class=&quot;glyphicon glyphicon-ok-circle&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
 Having more developers understand, use and evangelize this language will advance make the web better and more secure.</target>
 </trans-unit>
-<trans-unit id="8">
+<trans-unit id="8" xml:space="preserve">
   <source xml:lang="en-US">Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="9">
+<trans-unit id="9" xml:space="preserve">
   <source xml:lang="en-US">[Find out more...](https://www.rust-lang.org)</source>
   <target xml:lang="it">[Find out more...](https://www.rust-lang.org)</target>
 </trans-unit>
-<trans-unit id="10">
+<trans-unit id="10" xml:space="preserve">
   <source xml:lang="en-US">&lt;p&gt;
   &lt;iframe style=&quot;max-width:100%;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8EPsnf_ZYU0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
@@ -74,267 +74,267 @@ Having more developers understand, use and evangelize this language will advance
 
 </target>
 </trans-unit>
-<trans-unit id="11">
+<trans-unit id="11" xml:space="preserve">
   <source xml:lang="en-US">Impact and Metrics</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="12">
+<trans-unit id="12" xml:space="preserve">
   <source xml:lang="en-US">The Rust programming language will be important to the future of the web, making it safe and great.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="13">
+<trans-unit id="13" xml:space="preserve">
   <source xml:lang="en-US">Having more developers understand, use and evangelize this language will advance make the web better and more secure.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="14">
+<trans-unit id="14" xml:space="preserve">
   <source xml:lang="en-US">Rust will also be used extensively for Mozilla projects -- including this year as Servo (written in Rust) is advanced even further, and parts of it are moved into Gecko/Firefox.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="15">
+<trans-unit id="15" xml:space="preserve">
   <source xml:lang="en-US">Having more Mozilla contributors know Rust will give them a chance to contribute to the most exciting and important technical projects coming up for Mozilla.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="16">
+<trans-unit id="16" xml:space="preserve">
   <source xml:lang="en-US">Goals for this area</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="17">
+<trans-unit id="17" xml:space="preserve">
   <source xml:lang="en-US">__Impact:__</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="18">
+<trans-unit id="18" xml:space="preserve">
   <source xml:lang="en-US">1,000 programmers/developers are introduced to and are well on their way to learning Rust</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="19">
+<trans-unit id="19" xml:space="preserve">
   <source xml:lang="en-US">10 blog posts about events or other local Rust activities</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="20">
+<trans-unit id="20" xml:space="preserve">
   <source xml:lang="en-US">__Strength:__</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="21">
+<trans-unit id="21" xml:space="preserve">
   <source xml:lang="en-US">50 Mozillians organize Rust Hack and Learn events</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="22">
+<trans-unit id="22" xml:space="preserve">
   <source xml:lang="en-US">50 new people signed up to [Rust developer list](https://users.rust-lang.org)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="23">
+<trans-unit id="23" xml:space="preserve">
   <source xml:lang="en-US">Audience for this activity</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="24">
+<trans-unit id="24" xml:space="preserve">
   <source xml:lang="en-US">Your audience for this event should be **programmers and developers**.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="25">
+<trans-unit id="25" xml:space="preserve">
   <source xml:lang="en-US">Focus on people who are technical and already know languages like C or Python or other similar languages.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="26">
+<trans-unit id="26" xml:space="preserve">
   <source xml:lang="en-US">Activity Format</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="27">
+<trans-unit id="27" xml:space="preserve">
   <source xml:lang="en-US">Get your community behind this exciting new programming language by running a learning event.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="28">
+<trans-unit id="28" xml:space="preserve">
   <source xml:lang="en-US">Put an event team together</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="29">
+<trans-unit id="29" xml:space="preserve">
   <source xml:lang="en-US">Choose a date and secure a venue</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="30">
+<trans-unit id="30" xml:space="preserve">
   <source xml:lang="en-US">Choose whether this will be self-facilitated or with someone who has Rust experience (see below)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="31">
+<trans-unit id="31" xml:space="preserve">
   <source xml:lang="en-US">Setup the event on Reps Portal ([instructions](https://wiki.mozilla.org/ReMo/SOPs/Event_hosting))</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="32">
+<trans-unit id="32" xml:space="preserve">
   <source xml:lang="en-US">For duration, we recommend a half-day (or full evening) event with a minimum of 15-25 attendees.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="33">
+<trans-unit id="33" xml:space="preserve">
   <source xml:lang="en-US">There are two options for facilitation:</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="34">
+<trans-unit id="34" xml:space="preserve">
   <source xml:lang="en-US">Ask a person with experience with Rust to attend and provide guidance to attendees.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="35">
+<trans-unit id="35" xml:space="preserve">
   <source xml:lang="en-US">There are a few ways to try to find local Rust experts to invite:</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="36">
+<trans-unit id="36" xml:space="preserve">
   <source xml:lang="en-US">Reach out to the [Community Team](https://www.rust-lang.org/en-US/team.html#Community-team) - community-team [at] rust-lang [dot] org - they know the most active people in most regions.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="37">
+<trans-unit id="37" xml:space="preserve">
   <source xml:lang="en-US">Via the [user groups](https://www.rust-lang.org/en-US/user-groups.html)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="38">
+<trans-unit id="38" xml:space="preserve">
   <source xml:lang="en-US">At [rustaceans.org](http://www.rustaceans.org/)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="39">
+<trans-unit id="39" xml:space="preserve">
   <source xml:lang="en-US">If the facilitators have little or no Rust experience, turn it into a learning session for everyone, where you go through the steps together.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="40">
+<trans-unit id="40" xml:space="preserve">
   <source xml:lang="en-US">Some Mozillians have already done such sessions.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="41">
+<trans-unit id="41" xml:space="preserve">
   <source xml:lang="en-US">For example our [Community Spaces](https://wiki.mozilla.org/Participation/Community_Spaces) have, so you can reach out the them to ask for some guidance.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="42">
+<trans-unit id="42" xml:space="preserve">
   <source xml:lang="en-US">Event Flow</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="43">
+<trans-unit id="43" xml:space="preserve">
   <source xml:lang="en-US">Install Rust</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="44">
+<trans-unit id="44" xml:space="preserve">
   <source xml:lang="en-US">[rustup](https://www.rustup.rs) - recommended</source>
   <target xml:lang="it">[rustup](https://www.rustup.rs) - recommended</target>
 </trans-unit>
-<trans-unit id="45">
+<trans-unit id="45" xml:space="preserve">
   <source xml:lang="en-US">[Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)</source>
   <target xml:lang="it">[Rust downloads](https://www.rust-lang.org/downloads.html) (alternative)</target>
 </trans-unit>
-<trans-unit id="46">
+<trans-unit id="46" xml:space="preserve">
   <source xml:lang="en-US">Read the [Rust book](https://doc.rust-lang.org/stable/book/)</source>
   <target xml:lang="it">Read the [Rust book](https://doc.rust-lang.org/stable/book/)</target>
 </trans-unit>
-<trans-unit id="47">
+<trans-unit id="47" xml:space="preserve">
   <source xml:lang="en-US">Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)</source>
   <target xml:lang="it">Complete the [Rustlings](https://github.com/carols10cents/rustlings) (a great beginners course!)</target>
 </trans-unit>
-<trans-unit id="48">
+<trans-unit id="48" xml:space="preserve">
   <source xml:lang="en-US">Some projects with great first bugs:</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="49">
+<trans-unit id="49" xml:space="preserve">
   <source xml:lang="en-US">The Rust language and compiler</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="50">
+<trans-unit id="50" xml:space="preserve">
   <source xml:lang="en-US">[Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)</source>
   <target xml:lang="it">[Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)</target>
 </trans-unit>
-<trans-unit id="51">
+<trans-unit id="51" xml:space="preserve">
   <source xml:lang="en-US">[Labeled mentor](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)</source>
   <target xml:lang="it">[Labeled mentor](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AE-mentor)</target>
 </trans-unit>
-<trans-unit id="52">
+<trans-unit id="52" xml:space="preserve">
   <source xml:lang="en-US">[clippy - the popular Rust static analysis tool](https://github.com/Manishearth/rust-clippy)</source>
   <target xml:lang="it">[clippy - the popular Rust static analysis tool](https://github.com/Manishearth/rust-clippy)</target>
 </trans-unit>
-<trans-unit id="53">
+<trans-unit id="53" xml:space="preserve">
   <source xml:lang="en-US">[Cargo - Rust’s package manager](https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)</source>
   <target xml:lang="it">[Cargo - Rust’s package manager](https://github.com/rust-lang/cargo/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy)</target>
 </trans-unit>
-<trans-unit id="54">
+<trans-unit id="54" xml:space="preserve">
   <source xml:lang="en-US">[rustfmt - the Rust source code formatting tool](https://github.com/rust-lang-nursery/rustfmt/issues)</source>
   <target xml:lang="it">[rustfmt - the Rust source code formatting tool](https://github.com/rust-lang-nursery/rustfmt/issues)</target>
 </trans-unit>
-<trans-unit id="55">
+<trans-unit id="55" xml:space="preserve">
   <source xml:lang="en-US">Though some are without clear instructions, the domain is easy to understand (it's mostly manipulating strings), and potentially engaging.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="56">
+<trans-unit id="56" xml:space="preserve">
   <source xml:lang="en-US">[rustup - the Rust installer](https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)</source>
   <target xml:lang="it">[rustup - the Rust installer](https://github.com/rust-lang-nursery/rustup.rs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)</target>
 </trans-unit>
-<trans-unit id="57">
+<trans-unit id="57" xml:space="preserve">
   <source xml:lang="en-US">Rust documentation</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="58">
+<trans-unit id="58" xml:space="preserve">
   <source xml:lang="en-US">[Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)</source>
   <target xml:lang="it">[Labeled easy](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs+label%3AE-easy)</target>
 </trans-unit>
-<trans-unit id="59">
+<trans-unit id="59" xml:space="preserve">
   <source xml:lang="en-US">[Standard library API docs](https://github.com/rust-lang/rust/issues/29329)</source>
   <target xml:lang="it">[Standard library API docs](https://github.com/rust-lang/rust/issues/29329)</target>
 </trans-unit>
-<trans-unit id="60">
+<trans-unit id="60" xml:space="preserve">
   <source xml:lang="en-US">[This Week in Rust](https://this-week-in-rust.org/) also publishes a call for participation each week with hot contribution ideas.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="61">
+<trans-unit id="61" xml:space="preserve">
   <source xml:lang="en-US">Other Resources</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="62">
+<trans-unit id="62" xml:space="preserve">
   <source xml:lang="en-US">Tutorials</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="63">
+<trans-unit id="63" xml:space="preserve">
   <source xml:lang="en-US">[Niko Matsakis's excellent slide deck](https://github.com/nikomatsakis/rust-tutorials-keynote)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="64">
+<trans-unit id="64" xml:space="preserve">
   <source xml:lang="en-US">[Exercises to accompany that deck](https://github.com/nikomatsakis/rust-tutorializer)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="65">
+<trans-unit id="65" xml:space="preserve">
   <source xml:lang="en-US">[A screencast from Niko on ownership and borrowing](https://www.youtube.com/watch?v=TCUBSbJENO4)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="66">
+<trans-unit id="66" xml:space="preserve">
   <source xml:lang="en-US">Output</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="67">
+<trans-unit id="67" xml:space="preserve">
   <source xml:lang="en-US">Additional to the recommended event flow here are some things we’d like you, the event organizer, to do.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="68">
+<trans-unit id="68" xml:space="preserve">
   <source xml:lang="en-US">Fill out the post-event metrics on the event page you setup on the Reps portal</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="69">
+<trans-unit id="69" xml:space="preserve">
   <source xml:lang="en-US">Optionally, tell us about your event.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="70">
+<trans-unit id="70" xml:space="preserve">
   <source xml:lang="en-US">This can be before or after.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="71">
+<trans-unit id="71" xml:space="preserve">
   <source xml:lang="en-US">We love to hear about upcoming plans, and of course love to hear about what was achieved at the event with a picture or two!</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="72">
+<trans-unit id="72" xml:space="preserve">
   <source xml:lang="en-US">This will also be instructional and inspirational to others who might do the event.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="73">
+<trans-unit id="73" xml:space="preserve">
   <source xml:lang="en-US">[Here is the Discourse post to write to](https://discourse.mozilla-community.org/t/activate-mozilla-dive-into-rust/10073/1)</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="74">
+<trans-unit id="74" xml:space="preserve">
   <source xml:lang="en-US">Extra</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="75">
+<trans-unit id="75" xml:space="preserve">
   <source xml:lang="en-US">While the focus of this activity should be on these events, there are other ways to stay more involved with the Rust community after.</source>
   <target xml:lang="it"></target>
 </trans-unit>
-<trans-unit id="76">
+<trans-unit id="76" xml:space="preserve">
   <source xml:lang="en-US">Follow up with attendees to highlight [more things happening in the community to get involved with](https://www.rust-lang.org/en-US/community.html)</source>
   <target xml:lang="it"></target>
 </trans-unit>
