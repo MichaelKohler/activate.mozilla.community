@@ -18,7 +18,7 @@ parent: activities</source>
   <target xml:lang="fr">layout: page
 title:  "WebVR Camp"
 permalink: /fr/webvr-camp/
-lang: en
+lang: fr
 ref: webvr-camp
 parent: activities</target>
 </trans-unit>

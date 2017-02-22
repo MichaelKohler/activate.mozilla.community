@@ -17,7 +17,7 @@ parent: activities</source>
         <target xml:lang="pt-BR">layout: page
 title: "Web Compatibility Sprint"
 permalink: /pt/webcompat-sprint/
-lang: en
+lang: pt
 ref: webcompat-sprint
 parent: activities</target>
       </trans-unit>

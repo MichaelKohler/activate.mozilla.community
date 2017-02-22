@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Activities"
+title: "Activities"
 permalink: /es/activities/
 lang: es
 ref: activities
@@ -8,12 +8,12 @@ redirect_from: "/es/developer-engagement/"
 redirect_from: "/es/experiments/"
 ---
 
-## Activities
+## Actividades
 
-These activities were designed with 2 things in mind:
+Estas actividades se diseñaron teniendo en cuenta 2 cosas:
 
-1. That they have the potential to have a direct impact on Mozilla’s work right now
-2. That they bring value to you and your community. While we have specific metrics for each activity, one of the main overall goals is that we all get better at mobilising and building communities.
+1. Que tienen el potencial suficiente como para tener un impacto directo en el trabajo de Mozilla ahora mismo
+2. Que te dan un valor añadido a ti y a tu comunidad. %%%7%%%
 
 Before you jump right in: Look at your goals for the year, what do you and your community want to accomplish in each of the impact areas? Which of the following activities best map to those goal? And very importantly, ask yourself if by doing these activities you can expose new people to the work that Mozilla is doing and we can build new communities around them.
 
@@ -42,9 +42,7 @@ With the emergence of multiprocess Firefox (e10s), we need to ensure featured ad
 {: .clear}
 _
 
-<hr>
-
-{: .clear}
+<hr>{: .clear}
 _
 
 ### Build The Web
@@ -64,29 +62,27 @@ Rust is a systems programming language important to the future of the web. It ru
 {: .activity}
 **WebVR Camp**
 A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
-[Find out more](/es/rust-hack/).
+[Find out more](/es/webvr-camp/).
 
 {: .clear}
 _
 
-<hr>
-
-{: .clear}
+<hr>{: .clear}
 _
 
-### Protect The Web
+### Proteger la Web
 
-<img src="/assets/img/icon-protect.svg" alt="protect" class="left img-circle activity-img">
+<img src="/assets/img/icon-protect.svg" alt="proteger" class="left img-circle activity-img">
 
-In order for the web to stay open and accessible to all people need to feel safe online and know how to fight for and defend against the biggest challenges and opportunities that face the internet today.
+Para que la web siga siendo accesible a todos aquellos que tengan la necesidad de sentirse seguros en línea y para saber cómo luchar por defendernos frente a los grandes retos y oportunidades a los que hace frente internet hoy en día.
 
 {: .clear}
 _
 
 {: .activity}
 **Web Compatibility Sprint**
-Web Compatibility, the ability for all Web content to run in all browsers, is important. There are multiple web content engines running on multiple devices, and sometimes with a little testing and some small tweaks to their site, developers can ensure that more users can have the full experience that is desired. Test sites and spread the message about compatibility.
-[Find out more](/es/webcompat-sprint/).
+Web Compatibility, the ability for all Web content to run in all browsers, is important. Hay muchos motores web de contenido que se ejecutan en varios dispositivos y, a veces, con pequeñas pruebas y algún que otro cambio en la página, los desarrolladores pueden garantizarles a los usuarios una experiencia completa. Test sites and spread the message about compatibility.
+[Descubre más](/webcompat-sprint/).
 
 {: .clear}
 _

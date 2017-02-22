@@ -19,7 +19,7 @@ The goal is simple, Participation at scale with impact. Help us get bigger and b
 
 ## Our Mission
 
-To have Mozilla succeed through openness and participation.
+To have Mozilla succeed through openness and participation
 
 ## What We Do
 

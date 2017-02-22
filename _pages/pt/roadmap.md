@@ -1,24 +1,20 @@
 ---
 layout: default
-title:  "Cronograma"
+title:  "Roadmap"
 permalink: /pt/roadmap/
 lang: pt
 ref: roadmap
 ---
 
-# Cronograma
+# Roadmap
 
-Nesta página descrevemos as atividades passadas, atuais e futuras que temos neste site. Se você tiver comentários, perguntas ou sugestões, por favor, [insira-os neste tópico](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
+In this page we describe the past, current and future activities that we have on this site. If you have feedback, questions or suggestions please [chime in to this topic](https://discourse.mozilla-community.org/t/activate-mozilla-roadmap/10068).
 
 *Note that this roadmap is subject to change.*
 
 | Now (Q1 2017)  | Next (Q2 2017)   | Later (Beyond) |
 | --- | --- | --- |
-| [Dive Into Rust](/pt/rust-hack/) | Build your own WebExtension | Open Source Corpus |
-| [Web Compatibility Sprint](/pt/webcompat-sprint/) | Community Participation Guidelines Review | MLN |
-| [WebVR Camp](/pt/webvr-camp/) | Host a Tech Speaker | Firefox Nightly |
-
-Latest Changes
----
-
-**February 21, 2017:** Added current version of the roadmap
+| [Dive Into Rust](/rust-hack/) | Next-Gen Firefox Hacking with The Janitor |     |
+| [Web Compatibility Sprint](/pt/webcompat-sprint/) |     |     |
+| [Test Pilot Install](/pt/test-pilot/) |     |     |
+| [WebVR Camp](/pt/webvr-camp/) |     |     |

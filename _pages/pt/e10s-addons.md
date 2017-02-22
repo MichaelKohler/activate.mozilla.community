@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "e10s and Featured Add-ons"
+title: "e10s e Extensões"
 permalink: /pt/e10s-addons/
 lang: pt
 ref: e10s-addons
@@ -18,15 +18,15 @@ Featured add-ons receive enhanced promotion on AMO, which results in greatly inc
 
 __NOTE: This activity is running only until November 4th, 2016__.
 
-## Impact and Metrics
+## Impacto e Métricas
 
 Millions of Firefox users have installed add-ons directly from the [Featured Add-ons collection](https://addons.mozilla.org/firefox/extensions/?sort=featured). They expect and trust Mozilla to guide them to the very best add-ons content. Ensuring compatibility with the latest browser technology, in this case e10s—which will be turned on for Firefox with Firefox 50 (November 8) who have compatible add-ons—is critical to the claim that these featured add-ons deserve their attention.
 
-### Goals for this area
+### Metas para esta área
 
-__Impact:__
+__Impacto:__
 
-* 55 featured add-ons, with &lt;100k users, are tested
+* 55 featured add-ons, with <100k users, are tested
 * 400 individual add-on tests
 
 __Strength:__
@@ -34,11 +34,11 @@ __Strength:__
 * 15 Mobilizers activated
 * 200 add-on testers at events
 
-## Audience for this activity
+## Público para esta atividade
 
 This is for participants with an interest or passion for add-ons content from a user experience perspective. You do not need any particular technical skills, but rather an ability to install add-ons and test their features to ensure the content works as expected with multiprocess Firefox.
 
-## Activity Format
+## Formato de Atividade
 
 While this activity can be run solo, we encourage you to run an event in your community to get together people who care about the Web. The goal is to test sites, diagnose problems, and discuss how to evangelise locally to developers about a Web that works for everyone.
 
@@ -48,17 +48,18 @@ While this activity can be run solo, we encourage you to run an event in your co
 
 For duration, we recommend 2-3 hours with 10-15 attendees.
 
-## Event Flow
+## Fluxo de eventos
 
-### Introduction
+### Introdução
 
 * Give a quick introduction to attendees about what we are doing and why it is important. The main point is that with more compatible add-ons, e10s will roll out faster to potentially millions more Firefox users.
-* Ask attendees to tweet about their attendance. Here is a suggested message:
+* Ask attendees to tweet about their attendance. Aqui está uma sugestão de mensagem:
     * I’m helping more @Firefox add-ons to become compatible with new cutting edge technology <link of this page> #MozActivate
 
 ### Steps to test...
 
-All test reporting takes place on the [Featured Add-ons Compatibility Test page](https://featured-addons-test.herokuapp.com/). You should see a link to an add-on near the top of the page. For every add-on you want to test, you’ll need to do the following:
+All test reporting takes place on the [Featured Add-ons Compatibility Test page](https://featured-addons-test.herokuapp.com/). You should see a link to an add-on near the top of the page.
+To make sure multiprocess Firefox is enabled, you'll need to use [Firefox 50 (Beta)](https://www.mozilla.org/firefox/channel/) when testing an add-on. For every add-on you want to test, you’ll need to do the following:
 
 1. Create a new Firefox profile by going to __about:profiles__ => “Create new profile”. Enter a name and click “Done”. Then click “Launch profile in new browser” to launch it.
 2. Install the ["Add-on Compatibility Reporter"](https://addons.mozilla.org/addon/add-on-compatibility-reporter?src=external-activatee10s1) (ACR) add-on in the new profile.
@@ -79,4 +80,4 @@ Additional to the recommended event flow here are some things we’d like you, t
 
 ## Extra
 
-If you’re interested in add-ons and want to learn more about ways you can get involved with addons.mozilla.org, please visit: [https://wiki.mozilla.org/Add-ons/Contribute](https://wiki.mozilla.org/Add-ons/Contribute)
+If you’re interested in add-ons and want to learn more about ways you can get involved with addons.mozilla.org, please visit: [https://wiki.mozilla.org/Add-ons/Contribute)

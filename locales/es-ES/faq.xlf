@@ -15,7 +15,7 @@ lang: en</source>
         <target xml:lang="es-ES">layout: default
 title: "Preguntas más frecuentes"
 permalink: /es/faq/
-lang: en</target>
+lang: es</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:lang="en-US">ref: faq</source>

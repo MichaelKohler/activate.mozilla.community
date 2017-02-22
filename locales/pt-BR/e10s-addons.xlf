@@ -17,7 +17,7 @@ parent: activities</source>
         <target xml:lang="pt-BR">layout: page
 title: "e10s e Extensões"
 permalink: /pt/e10s-addons/
-lang: en
+lang: pt
 ref: e10s-addons
 parent: activities</target>
       </trans-unit>

@@ -12,13 +12,13 @@
   <source xml:lang="en-US">layout: page
 title:  "Web Compatibility Sprint"
 permalink: /webcompat-sprint/
-lang: en
+lang: fr
 ref: webcompat-sprint
 parent: activities</source>
   <target xml:lang="fr">layout: page
 title:  "Web Compatibility Sprint"
 permalink: /fr/webcompat-sprint/
-lang: en
+lang: fr
 ref: webcompat-sprint
 parent: activities</target>
 </trans-unit>

@@ -18,7 +18,7 @@ parent: activities</source>
   <target xml:lang="pt-BR">layout: page
 title:  "Install Test Pilot"
 permalink: /pt/test-pilot/
-lang: en
+lang: pt
 ref: test-pilot
 parent: activities</target>
 </trans-unit>

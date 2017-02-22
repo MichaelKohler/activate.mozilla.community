@@ -18,7 +18,7 @@ parent: activities</source>
   <target xml:lang="es-ES">layout: page
 title:  "Dive Into Rust"
 permalink: /es/rust-hack/
-lang: en
+lang: es
 ref: rust-hack
 parent: activities</target>
 </trans-unit>

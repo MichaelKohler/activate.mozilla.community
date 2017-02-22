@@ -15,7 +15,7 @@ lang: en</source>
         <target xml:lang="es-ES">layout: leaderboard
 title: "Leaderboard"
 permalink: /es/leaderboard/
-lang: en</target>
+lang: es</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve">
         <source xml:lang="en-US">ref: leaderboard</source>

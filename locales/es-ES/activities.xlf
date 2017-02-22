@@ -17,7 +17,7 @@ redirect_from: "/developer-engagement/"</source>
         <target xml:lang="es-ES">layout: default
 title: "Activities"
 permalink: /es/activities/
-lang: en
+lang: es
 ref: activities
 redirect_from: "/es/developer-engagement/"</target>
       </trans-unit>

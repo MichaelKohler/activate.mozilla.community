@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Activities"
+title: "Activities"
 permalink: /fr/activities/
 lang: fr
 ref: activities
@@ -8,7 +8,7 @@ redirect_from: "/fr/developer-engagement/"
 redirect_from: "/fr/experiments/"
 ---
 
-## Activities
+## Activités
 
 These activities were designed with 2 things in mind:
 
@@ -42,9 +42,7 @@ With the emergence of multiprocess Firefox (e10s), we need to ensure featured ad
 {: .clear}
 _
 
-<hr>
-
-{: .clear}
+<hr>{: .clear}
 _
 
 ### Build The Web
@@ -64,14 +62,12 @@ Rust is a systems programming language important to the future of the web. It ru
 {: .activity}
 **WebVR Camp**
 A-Frame is a web framework for building virtual reality experiences, making it easy for anyone to get involved with virtual reality. Run events to onboard developers into 3D and write some great demos. This will advance WebVR, an open platform for virtual reality that leverages the Web.
-[Find out more](/fr/rust-hack/).
+[Find out more](/webvr-camp/).
 
 {: .clear}
 _
 
-<hr>
-
-{: .clear}
+<hr>{: .clear}
 _
 
 ### Protect The Web

@@ -16,7 +16,7 @@ lang: en</source>
   <target xml:lang="pt-BR">layout: default
 title:  "Roadmap"
 permalink: /pt/roadmap/
-lang: en</target>
+lang: pt</target>
 </trans-unit>
 <trans-unit id="2" xml:space="preserve">
   <source xml:lang="en-US">ref: roadmap</source>
