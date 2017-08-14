@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "ZillaSlabHighlightBold";
+  src: url("/assets/fonts/ZillaSlabHighlight-Bold.woff2");
+}
+
 /**
  * Reset some basic elements
  */
@@ -23,6 +28,12 @@ body {
     color: $text-color;
     background-color: $background-color;
     font-kerning: normal;
+}
+
+h2 {
+  font-family: 'ZillaSlabHighlightBold', serif;
+  font-size: 3rem;
+  color: black;
 }
 
 
@@ -81,7 +92,7 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
     font-family: 'Open Sans Light',X-LocaleSpecific-Light,'Open Sans',X-LocaleSpecific,sans-serif;
     font-weight: $base-font-weight;
     display: block;
