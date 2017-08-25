@@ -8,7 +8,7 @@ redirect_from: "/pt/developer-engagement/"
 redirect_from: "/pt/experiments/"
 ---
 
-## Atividades
+# Atividades
 
 Estas atividades foram desenvolvidas com duas coisas em mente:
 
@@ -22,7 +22,7 @@ _
 
 {% include pt-BR/activities.html %}
 
-## Atividades removidas
+# Atividades removidas
 
 <a href="#" class="retired-activities-hide-link hidden">Ocultar atividades removidas</a>
 <a href="#" class="retired-activities-show-link">Mostrar atividades removidas</a>

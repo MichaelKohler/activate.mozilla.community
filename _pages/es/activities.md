@@ -8,7 +8,7 @@ redirect_from: "/es/developer-engagement/"
 redirect_from: "/es/experiments/"
 ---
 
-## Actividades
+# Actividades
 
 Estas actividades se diseñaron teniendo en cuenta 2 cosas:
 
@@ -22,7 +22,7 @@ _
 
 {% include es/activities.html %}
 
-## Retired Activities
+# Retired Activities
 
 <a href="#" class="retired-activities-hide-link hidden">Hide retired activities</a>
 <a href="#" class="retired-activities-show-link">Show retired activities</a>
