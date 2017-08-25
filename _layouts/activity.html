@@ -14,7 +14,7 @@ layout: activity-default
     <div class="col-xs-12 col-sm-9">
       <h1 class="post-title">{{ page.title }}</h1>
       {% if page.subtitle %}
-        <h3>{{ page.subtitle }}</h3>
+        <p>{{ page.subtitle }}</p>
       {% endif %}
       <p class="grey-share">
         <span class="grey-twitter"><a title="{{ l.twitter-text1 }}" href="https://twitter.com/home?status={{ l.twitter-text2 }} {{ page.title }} {{ l.twitter-text3 }} {{ page.url | prepend: site.url }}?utm_source=twitter.com%26utm_medium=social%26utm_campaign=moz-community-share" data-related="mozparticipate,mozilla" data-dnt="true" data-show-count="false">Tweet</a></span>
