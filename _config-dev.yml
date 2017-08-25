@@ -19,7 +19,7 @@ github_username:  mozilla
 markdown: kramdown
 
 include: ['_pages']
-exclude: ['locales']
+exclude: ['locales', 'api', '.vscode']
 
 disabled_languages: ['id']
 
