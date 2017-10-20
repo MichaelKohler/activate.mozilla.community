@@ -18,7 +18,7 @@
     a.page-link,
     a.page-link:active,
     a.page-link:focus {
-        color: #578094;
+        color: $brand-color;
 
         @media all and (max-width: 992px) {
             color: #FFF;
@@ -67,7 +67,7 @@
 
     &,
     &:visited {
-        color: #e29fa0;
+        color: $brand-color;
     }
 
     &:hover {
@@ -369,7 +369,7 @@
 
         .alert-info {
           color: white;
-          background-color: #578094;
+          background-color: $brand-color;
         }
 
         .post-content {
