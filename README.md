@@ -62,4 +62,6 @@ Run the site using the developer config
 
 You will be able to access the site at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
+If you want to develop pages requiring the API locally, follow the steps in the ```api/README.md``` to install and start the API locally. If you want to use the production API, open ```_config-dev.yml``` and change the ```api_base_url``` value to the same as in ```_config.yml```.
+
 Clone this repo, create a issue first and then a pull request to submit changes.
