@@ -23,7 +23,7 @@ function get_repsnames(url) {
    });
 }
 
-get_repsnames('http://localhost:6500/reps');
+get_repsnames(window.ACTIVATE_API_BASE_URL + '/reps');
 
 $(document).ajaxStop(function() {
   $.each(response, function(key, name) {
