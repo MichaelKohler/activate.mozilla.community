@@ -34,6 +34,10 @@
         margin: 0;
         font-size: 1.5em;
     }
+
+    .page-link:first-child {
+        margin-left: 50px;
+    }
 }
 
 .site-title {
@@ -105,9 +109,6 @@
     }
 }
 
-.index-notice {
-    margin-bottom: 30px;
-}
 /**
  * Site footer
  */
@@ -227,19 +228,6 @@
                 @media all and (max-width: 992px) {
                     text-align: left;
                 }
-            }
-
-            &.retired {
-                padding-top: 0;
-
-                img {
-                    -webkit-filter: grayscale(100%);
-                    filter: grayscale(100%);
-                }
-            }
-
-            .retired-note {
-                color: $red-color;
             }
 
             footer {
@@ -418,26 +406,6 @@
         strong {
             display: block;
         }
-
-        &.text-muted {
-            strong::after {
-                content: "retired";
-                margin-left: 5px;
-                margin-top: -2px;
-                background-color: #aaa;
-                padding: 0.1em 0.5em;
-                font-size: 0.75em;
-                color: #fff;
-                text-align: center;
-                white-space: nowrap;
-                vertical-align: baseline;
-                border-radius: 0.25em;
-            }
-
-            a {
-                opacity: 0.7;
-            }
-        }
     }
 
     .timebox {
@@ -543,10 +511,6 @@
     margin-bottom: 0;
 }
 
-.retired {
-    padding: 15px;
-    background-color: #f2dede;
-}
 /**
  * Posts
  */
@@ -768,53 +732,7 @@ div.facebook {
     }
 }
 
-#leaderboard {
-    display: inline-block;
-}
 
-#board {
-    th:first-child {
-        width: 500px;
-    }
-}
-
-#loading {
-    display: inline-block;
-    margin-top: 10px;
-    font-size: 1.1em;
-    color: $brand-color;
-}
-
-.frontpage-slider {
-    margin-left: 0;
-
-    li {
-        span {
-            display: inline-block;
-            width: auto;
-            margin: auto;
-            background: $brand-color;
-            padding: 15px 20px;
-            font-weight: 300;
-            font-size: 1.5em;
-            color: $text-color-light;
-
-            a {
-                color: $text-color-light;
-            }
-        }
-    }
-}
-
-.bx-wrapper {
-    .bx-prev {
-        display: none;
-    }
-
-    .bx-next {
-        display: none;
-    }
-}
 // Bootstrap Overwrites
 @include media-query($on-laptop) {
     .site-header {
@@ -833,15 +751,9 @@ div.facebook {
         .navbar-header {
             float: none;
         }
+
+        .page-link:first-child {
+            margin-left: 0px;
+        }
     }
-}
-
-table.sortable > thead th:hover:not([data-defaultsort="disabled"]) {
-    background-color: $brand-color-light;
-}
-
-// Slider overwrites
-.bx-wrapper {
-  box-shadow: none;
-  -webkit-box-shadow: none;
 }

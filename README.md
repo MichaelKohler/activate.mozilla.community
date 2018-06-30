@@ -4,8 +4,6 @@ You can see this site live at [https://activate.mozilla.community/](https://acti
 
 ## How to add or update content
 
-All content can be edited using [Markdown](https://en.wikipedia.org/wiki/Markdown) files.
-
 * Front page (in English) can be modified editing [index.md](/_includes/index.md).
 * Pages can be added/edited from the [_pages](/_pages) folder, including subfolders for localized content (front page included).
 * Some parts are used multiple times and therefore are in a separate file, please also check the subfolders in [_includes](/_includes) for translations.
@@ -40,10 +38,10 @@ ref: developer-engagement
 
 ## Localize the impact form
 1. Create a new issue using the following format on the title "Impact form localization (languageCode)"
-2. To be able to localize the impact form, you need to create a new folder (using your languageCode in the title) in the _include and _pages folder. 
-3. Once you create it, you need copy formcontent.html (from _include folder) into your new folder. You need to copy the impactform.md file (from the _pages folder) as well into your new folder. 
-4. Localize the new file you've just copied. 
-5. Send a PR and it will be evaluated before it goes online in the website. 
+2. To be able to localize the impact form, you need to create a new folder (using your languageCode in the title) in the _include and _pages folder.
+3. Once you create it, you need copy formcontent.html (from _include folder) into your new folder. You need to copy the impactform.md file (from the _pages folder) as well into your new folder.
+4. Localize the new file you've just copied.
+5. Send a PR and it will be evaluated before it goes online in the website.
 
 
 ## Hack the site
@@ -62,8 +60,6 @@ Run the site using the developer config
 
 ``$ bundle exec jekyll serve --config ./_config-dev.yml``
 
-You will be able to access the site at [http://127.0.0.1:4000/
-](http://127.0.0.1:4000/
-)
+You will be able to access the site at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
 Clone this repo, create a issue first and then a pull request to submit changes.
