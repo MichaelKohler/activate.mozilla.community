@@ -1,8 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
 import DocumentTitle from 'react-document-title';
 import { Localized } from 'fluent-react/compat';
 import { connect } from 'react-redux';
-import GATrackedComponent from './GATrackedComponent';
 import Jumbotron from './Jumbotron.js';
 import NewsletterForm from './NewsletterForm.js';
 import ActivitiesOverview from './Activities/ActivitiesOverview.js';
@@ -12,10 +11,9 @@ import HomeCTA from './HomeCTA.js';
 import './Home.css';
 import '../section.css';
 
-class Home extends GATrackedComponent {
+class Home extends Component {
 
   componentDidMount = () => {
-    super.componentDidMount();
     document.body.classList.add('is-header-no-bg');
   };
 

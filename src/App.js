@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Router, Switch, Route } from 'react-router-dom';
 import store from './store';
 import { connect } from 'react-redux';
+import GATrackedComponent from './GATrackedComponent';
 
 import './App.css';
 import './title.css';
@@ -47,9 +48,11 @@ let activeCampaign = null;
 // };
 
 
-class App extends Component {
+class App extends GATrackedComponent {
 
   componentDidMount() {
+    super.componentDidMount();
+
     store.dispatch({
       type: ADD_CURRENT_CAMPAIGN,
       payload: activeCampaign
